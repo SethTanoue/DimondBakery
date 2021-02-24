@@ -1,0 +1,13 @@
+.cookie-background {
+  background: url("https://cdn.shopify.com/s/files/1/0204/0780/files/sodaDB_1600x766_banner-Template_SODA_1d26cd7a-bc71-4c55-8bdb-1c901de68f39_2048x.jpg?v=1609457089")no-repeat center;
+  background-size: cover;
+  height: 700px;
+}
+.ui.secondary.inverted.pointing.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+.ui.cart.button {
+  background-color: #FFF7B6;
+  height: 40px;
+}
